@@ -1,0 +1,64 @@
+body{
+  background-image: url("background.jpg");
+  background-position: center;
+}
+
+header{
+  text-align: center;
+}
+
+#tutto{
+  background-color: black;
+  border-radius: 10px;
+  opacity: 0.8;
+  width: 90%;
+  margin: 200px;
+  padding: 100px;
+  font-family: arial;
+}
+
+#titolo{
+  font-weight: bold;
+  color: lime;
+  text-align: center;
+}
+
+#bottoni{
+  background-color: lime;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+
+.opzioni{
+  color: white;
+}
+
+.opzioni2{
+  font-size: 15px;
+}
+
+#piccolo{
+  width: 10%;
+  background-color: red;
+  border-radius: 10px;
+  color: red;
+}
+
+#medio{
+  width: 25%;
+  background-color: yellow;
+  border-radius: 10px;
+  color: yellow;
+}
+
+#grande{
+  width: 50%;
+  background-color: green;
+  border-radius: 10px;
+  color: green;
+}
